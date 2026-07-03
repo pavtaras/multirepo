@@ -1,6 +1,6 @@
 {
-  "name": "@multirepo/logger",
-  "version": "0.1.2",
+  "name": "@pavtaras/logger",
+  "version": "0.1.4",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com"
   },

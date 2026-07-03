@@ -6,5 +6,5 @@ export function urlLogger(req: Request, _res: Response, next: NextFunction) {
 }
 
 export enum UserType {
-  REGULAR, NORMAL
+  REGULAR, NORMAL, ADMIN
 }
